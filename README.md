@@ -11,7 +11,7 @@ Support is optional, but always appreciated.
 
 ### 💠 UPI Donation
 
-<img src="https://github.com/Thundergod-thor/Readme/blob/main/donation.jpg?raw=true">
+<img src="https://github.com/Thundergod-thor/Readme/blob/main/donation.jpg?raw=true" width="280" alt="UPI Donation QR" />
 
 Scan using any UPI app (GPay / PhonePe / Paytm / BHIM)
 

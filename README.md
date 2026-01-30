@@ -12,7 +12,7 @@ Support is optional, but always appreciated.
 ### 💠 UPI Donation
 
 <p align="center">
-  <img src="donation.jpg" width="280" alt="UPI Donation QR" />
+  <img src="[d](https://private-user-images.githubusercontent.com/237508452/542636038-addb996c-f7bb-496e-8c8e-dc9aa1c36e44.jpg?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Njk3NTQ5NzIsIm5iZiI6MTc2OTc1NDY3MiwicGF0aCI6Ii8yMzc1MDg0NTIvNTQyNjM2MDM4LWFkZGI5OTZjLWY3YmItNDk2ZS04YzhlLWRjOWFhMWMzNmU0NC5qcGc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjYwMTMwJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDEzMFQwNjMxMTJaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1lYjUyMThmZTg4OWJhZGJiZGQyOTJlZjRhOWU1ZTRlNDdhY2VmOTI0ODk4N2Q3YWM5ZDA5YWIwOGQxZDI2ODBmJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.4czsbY2fQNS1lbdEnzITMhl3FqRKPDSCP2qkY3YDFk8)" width="280" alt="UPI Donation QR" />
 </p>
 
 Scan using any UPI app (GPay / PhonePe / Paytm / BHIM)
